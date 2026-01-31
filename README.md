@@ -53,4 +53,3 @@ flutter build web
 - `web/`: Arquivos de configuração específicos para a hospedagem web.
 - _(As pastas de outras plataformas foram mantidas para garantir a portabilidade do projeto)._
 ---
-✍️ _Estudos realizados por [João Carlos]_
